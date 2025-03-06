@@ -1,7 +1,7 @@
-https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Seattle.txt@103.137.63.2
-https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Los_Angeles.txt@103.137.63.2
-https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/San_Jose.txt@103.137.63.2
-https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Frankfurt.txt@103.137.63.2
-https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Tokyo.txt@103.137.63.2
-https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Hong_Kong.txt@103.137.63.2
-https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/YouXuanIP.txt@103.137.63.2
+https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Seattle.txt
+https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Los_Angeles.txt
+https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/San_Jose.txt
+https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Frankfurt.txt
+https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Tokyo.txt
+https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/Hong_Kong.txt
+https://raw.githubusercontent.com/shnuomin/test_ip/refs/heads/main/YouXuanIP.txt
